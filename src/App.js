@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Preloader from "./components/Preloader";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
-
+import Contact from "./components/Contact/contact-form";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
@@ -12,6 +12,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/ScrollToTop";
+import ContactForm from "./components/Contact/contact-form";
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -35,7 +36,7 @@ function App() {
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/project" component={Projects} />
-           
+            <Route path="/contact-form" component={Contact} />
             <Route path="/resume" component={Resume} />
           </Switch>
           <Footer />
