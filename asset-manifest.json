@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/challenge20/static/css/main.59df2a79.chunk.css",
+    "main.js": "/challenge20/static/js/main.4244c0b6.chunk.js",
+    "main.js.map": "/challenge20/static/js/main.4244c0b6.chunk.js.map",
+    "runtime-main.js": "/challenge20/static/js/runtime-main.57d5331c.js",
+    "runtime-main.js.map": "/challenge20/static/js/runtime-main.57d5331c.js.map",
+    "static/css/2.5d259885.chunk.css": "/challenge20/static/css/2.5d259885.chunk.css",
+    "static/js/2.195a9c60.chunk.js": "/challenge20/static/js/2.195a9c60.chunk.js",
+    "static/js/2.195a9c60.chunk.js.map": "/challenge20/static/js/2.195a9c60.chunk.js.map",
+    "index.html": "/challenge20/index.html",
+    "static/css/2.5d259885.chunk.css.map": "/challenge20/static/css/2.5d259885.chunk.css.map",
+    "static/css/main.59df2a79.chunk.css.map": "/challenge20/static/css/main.59df2a79.chunk.css.map",
+    "static/js/2.195a9c60.chunk.js.LICENSE.txt": "/challenge20/static/js/2.195a9c60.chunk.js.LICENSE.txt",
+    "static/media/kin-resume-se.059ec700.pdf": "/challenge20/static/media/kin-resume-se.059ec700.pdf",
+    "static/media/kinAva.c6ab33f6.jpg": "/challenge20/static/media/kinAva.c6ab33f6.jpg",
+    "static/media/mvc-tech-blog.84c7441e.png": "/challenge20/static/media/mvc-tech-blog.84c7441e.png",
+    "static/media/project1.88317e03.png": "/challenge20/static/media/project1.88317e03.png",
+    "static/media/project2.efaee9d0.png": "/challenge20/static/media/project2.efaee9d0.png",
+    "static/media/project4.f2832ecf.png": "/challenge20/static/media/project4.f2832ecf.png",
+    "static/media/project5.e8bcbc50.png": "/challenge20/static/media/project5.e8bcbc50.png",
+    "static/media/project6.e7749838.png": "/challenge20/static/media/project6.e7749838.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d5331c.js",
+    "static/css/2.5d259885.chunk.css",
+    "static/js/2.195a9c60.chunk.js",
+    "static/css/main.59df2a79.chunk.css",
+    "static/js/main.4244c0b6.chunk.js"
+  ]
+}
