@@ -12,7 +12,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/ScrollToTop";
-import ContactForm from "./components/Contact/contact-form";
+
 
 function App() {
   const [load, upadateLoad] = useState(true);
@@ -36,7 +36,7 @@ function App() {
           <Switch>
             <Route path="/" exact component={Home} />
             <Route path="/project" component={Projects} />
-            <Route path="/contact-form" component={Contact} />
+            <Route path="/contact" component={Contact} />
             <Route path="/resume" component={Resume} />
           </Switch>
           <Footer />
